@@ -13,7 +13,6 @@ ul = soup.find_all("dt")
 for p in s:
     p = str(p)
     p = de.sub("", p)
-    print()
     p = p.replace("\n", "")
     p = p.replace(" ", "")
     plist.append(p)
@@ -44,4 +43,4 @@ for i in range(len(plist)):
     c = c.replace(" ", "")
     o = c + b
     o = o.replace(" ", "")
-    await message.channel.send(o)
+    print(o)
