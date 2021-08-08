@@ -1,5 +1,5 @@
 # IMPORTANT
-***THIS IS JOKE CODE!!!　If any damage to users occurs due to the information, I don't take any responsibility.***
+***THIS IS JOKE CODE!!!　If any damage to users occurs due to use the code, I don't take any responsibility.***
 
 ## Topic
 ### This is screaping Sex industry shop's girl workday.
