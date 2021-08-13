@@ -1,10 +1,10 @@
 from bs4 import BeautifulSoup
 import re
 
+#THIS IS JOKE CODE!!!
+
 plist = []
 alist = []
-channel = client.get_channel(message.channel)
-await message.delete()
 target_url = ""####Please Input Your Like Girl
 r = requests.get(target_url)
 soup = BeautifulSoup(r.content, 'lxml')
